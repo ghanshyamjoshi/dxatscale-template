@@ -15,8 +15,10 @@ src-env-specific-alias-pre/**
 **/__tests__/**
 
 **/README.md
-
-
+src/core-crm/READEME.md
+src/sales/channel-fundamentals/README.md
+src/sales/channel-program/README.md
+src/README.md
 src/frameworks/trigger-framework/sample
 
 
